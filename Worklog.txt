@@ -1,0 +1,3 @@
+Thursday 1/24 - Django Tutorial (3hrs)
+Friday 1/25 - Learning LXML (7 hrs)
+Monday 1/28 - Implementing Django (3 hrs)

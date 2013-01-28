@@ -1,0 +1,4 @@
+- Learn Beautiful Soup and XPath
+- Learn Regex
+- Learn Django
+
